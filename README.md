@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://marciogomes-jr.github.io/to-do-list/
+https://main--amazing-chaja-770633.netlify.app/
 
 **To Do List** é uma lista de tarefas simples e funcional, criado para testar o aprendizado de HTML5, CSS e JS, foi desenvolvido em aula no programa **Dev Club** com [Rodolfo Mori](https://www.linkedin.com/in/rodolfomori/).
 
